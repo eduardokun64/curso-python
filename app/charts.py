@@ -16,5 +16,5 @@ def generar_grafica_pastel(letras,valores):
 if __name__ == "__main__":
   letras=["a","b","c"]
   valores=[20,80,800]
-  #generar_grafica(letras,valores)
+  generar_grafica(letras,valores)
   generar_grafica_pastel(letras,valores)
